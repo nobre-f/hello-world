@@ -1,2 +1,2 @@
 # hello-world
-esse é o ponto inicial da programação em C.
+esse é o ponto inicial da minha jornada na programação!
